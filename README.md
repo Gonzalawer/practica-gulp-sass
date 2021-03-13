@@ -1,2 +1,3 @@
 # practica-gulp-sass
-Aprendiendo Gulp y SASS
+
+Desarrollando sitio web "Rock & EDM Festival" utilizando codificación Gulp & SASS
